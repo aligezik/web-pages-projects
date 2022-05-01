@@ -156,7 +156,9 @@ footer .alt-nav .alt-right{
     align-items: center;
     justify-content: space-between;
 }
-
+a{
+    color: black;
+}
 a:hover{
     text-decoration: underline;
 }
